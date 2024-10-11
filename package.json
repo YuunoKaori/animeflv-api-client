@@ -1,0 +1,11 @@
+{
+  "name": "animeflv-api-client",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
